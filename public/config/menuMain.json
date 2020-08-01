@@ -22,25 +22,25 @@
       {
         "icon": "fa fa-file-text-o",
         "slug": "investigacion-mercados",
-        "title": "1.2 Definición del problema de investigación",
+        "title": "1.2 Definición del problema",
         "anchor": "tema1_2"
       },
       {
         "icon": "fa fa-file-text-o",
         "slug": "investigacion-mercados",
-        "title": "1.3 Diseño de la investigación",
+        "title": "1.3 Diseño de investigación",
         "anchor": "tema1_3"
       },
       {
         "icon": "fa fa-file-text-o",
         "slug": "investigacion-mercados",
-        "title": "1.4 Recopilación y análisis de datos",
+        "title": "1.4 Recolección y análisis de datos",
         "anchor": "tema1_4"
       },
       {
         "icon": "fa fa-file-text-o",
         "slug": "investigacion-mercados",
-        "title": "1.5 Informe",
+        "title": "1.5 Preparación y presentación de informe final",
         "anchor": "tema1_5"
       }
     ]  
@@ -50,7 +50,7 @@
     "id": 2,
     "icon": "fa fa-file-text-o",
     "slug": "tipos_investigacion_mercado",
-    "title": "2. Tipos de investigación de mercado",
+    "title": "2. Tipos de investigación de mercados",
     "breadcrumb": [
       "Inicio",
       "Tema 2"
@@ -61,7 +61,7 @@
     "id": 3,
     "icon": "fa fa-file-text-o",
     "slug": "especificacion_diseno_producto",
-    "title": "3. Especificación de Diseño de Producto PDS",
+    "title": "3. Especificaciones de diseño de producto PDS",
     "breadcrumb": [
       "Inicio",
       "Tema 2"
@@ -71,7 +71,7 @@
       {
         "icon": "fa fa-file-text-o",
         "slug": "especificacion_diseno_producto",
-        "title": "3.1 Aspectos para evaluar un Diseño de un Producto",
+        "title": "3.1 Aspectos para evaluar el diseño de un producto",
         "anchor": "tema3_1"
       }
     ]
